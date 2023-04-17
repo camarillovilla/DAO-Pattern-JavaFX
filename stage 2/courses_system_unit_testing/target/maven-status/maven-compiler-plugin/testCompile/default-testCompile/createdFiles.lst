@@ -1,0 +1,4 @@
+unit\test\TeacherDAO\TeacherFormatTest.class
+unit\test\TeacherDAO\TeacherRegistrationTest.class
+unit\test\TeacherDAO\TeacherAuthenticationTest.class
+unit\test\TeacherDAO\TeacherUpdateTest.class

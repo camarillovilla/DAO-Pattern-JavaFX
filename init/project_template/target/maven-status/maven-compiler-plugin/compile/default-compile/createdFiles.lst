@@ -1,0 +1,6 @@
+system\daos\implementations\DBConnection.class
+system\controllers\App.class
+system\objects\AlertMessage.class
+system\daos\implementations\DAOException.class
+module-info.class
+system\objects\Status.class

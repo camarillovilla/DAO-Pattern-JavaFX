@@ -1,0 +1,4 @@
+--patch-module
+system.coursesdemo_template=_
+--add-reads
+system.coursesdemo_template=ALL-UNNAMED
